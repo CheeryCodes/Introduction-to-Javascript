@@ -1,0 +1,1 @@
+alert("Name: Esther Nehemiah\nHeight: 56 inches\nCountry: Nigeria");
